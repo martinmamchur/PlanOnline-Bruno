@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-07-29T21:17:52.444Z",
+  "exportedAt": "2026-07-29T21:34:33.531Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -239,6 +239,42 @@
       ],
       "comment": "Con barra ",
       "kneeSensation": null
+    },
+    "w1_d2_C__log2": {
+      "sets": [
+        {
+          "kg": "36",
+          "reps": "12"
+        },
+        {
+          "kg": "36",
+          "reps": "12"
+        },
+        {
+          "kg": "36",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w1_d2_C__log3": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": "20"
+        },
+        {
+          "kg": "",
+          "reps": "20"
+        },
+        {
+          "kg": "",
+          "reps": "20"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
     }
   },
   "videos": {
@@ -308,6 +344,7 @@
   },
   "sessionDone": {
     "w1_d0__done": true,
-    "w1_d1__done": true
+    "w1_d1__done": true,
+    "w1_d2__done": true
   }
 }
