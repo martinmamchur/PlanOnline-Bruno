@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-01T15:39:50.547Z",
+  "exportedAt": "2026-08-03T21:02:34.031Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -125,15 +125,15 @@
       "sets": [
         {
           "kg": "22,7",
-          "reps": "12"
+          "reps": "15"
         },
         {
           "kg": "22,7",
-          "reps": "12"
+          "reps": "15"
         },
         {
           "kg": "22,7",
-          "reps": "12"
+          "reps": "15"
         }
       ],
       "comment": "",
@@ -404,6 +404,136 @@
       ],
       "kneeSensation": null,
       "comment": "Sentadilla libre con medball - buscando profundidad y rango "
+    },
+    "w2_d0_B__log0": {
+      "sets": [
+        {
+          "kg": "40",
+          "reps": "12"
+        },
+        {
+          "kg": "40",
+          "reps": "12"
+        },
+        {
+          "kg": "40",
+          "reps": "12"
+        },
+        {
+          "kg": "40",
+          "reps": "12"
+        }
+      ],
+      "comment": "20kg cada lado ",
+      "kneeSensation": null
+    },
+    "w2_d0_C__log0": {
+      "sets": [
+        {
+          "kg": "18",
+          "reps": "20"
+        },
+        {
+          "kg": "18",
+          "reps": "20"
+        },
+        {
+          "kg": "18",
+          "reps": "15"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w2_d0_C__log1": {
+      "sets": [
+        {
+          "kg": "31",
+          "reps": "20"
+        },
+        {
+          "kg": "31",
+          "reps": "15"
+        },
+        {
+          "kg": "31",
+          "reps": "15"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w2_d0_B__log1": {
+      "sets": [
+        {
+          "kg": "40",
+          "reps": "15"
+        },
+        {
+          "kg": "40",
+          "reps": "15"
+        },
+        {
+          "kg": "40",
+          "reps": "15"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w2_d0_B__log2": {
+      "sets": [
+        {
+          "kg": "31",
+          "reps": "12"
+        },
+        {
+          "kg": "31",
+          "reps": "12"
+        },
+        {
+          "kg": "31",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w2_d0_C__log2": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": "12"
+        },
+        {
+          "kg": "",
+          "reps": "12"
+        },
+        {
+          "kg": "",
+          "reps": "12"
+        }
+      ],
+      "kneeSensation": null,
+      "comment": "Unipodal en escalón "
+    },
+    "w2_d0_C__log3": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        }
+      ],
+      "kneeSensation": null,
+      "comment": "Con banda gris"
     }
   },
   "videos": {
@@ -476,6 +606,7 @@
     "w1_d1__done": true,
     "w1_d2__done": true,
     "w1_d4__done": true,
-    "w1_d3__done": true
+    "w1_d3__done": true,
+    "w2_d0__done": true
   }
 }
