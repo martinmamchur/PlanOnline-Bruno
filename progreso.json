@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-10T20:09:03.511Z",
+  "exportedAt": "2026-08-10T20:31:36.232Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -779,6 +779,60 @@
         }
       ],
       "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d0_B__log2": {
+      "sets": [
+        {
+          "kg": "23",
+          "reps": "15"
+        },
+        {
+          "kg": "23",
+          "reps": "15"
+        },
+        {
+          "kg": "23",
+          "reps": "15"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d0_C__log0": {
+      "sets": [
+        {
+          "kg": "18",
+          "reps": "15"
+        },
+        {
+          "kg": "18",
+          "reps": "15"
+        },
+        {
+          "kg": "18",
+          "reps": "15"
+        }
+      ],
+      "comment": "( rodillas hacia afuera)",
+      "kneeSensation": null
+    },
+    "w3_d0_C__log1": {
+      "sets": [
+        {
+          "kg": "32",
+          "reps": "15"
+        },
+        {
+          "kg": "32",
+          "reps": "15"
+        },
+        {
+          "kg": "32",
+          "reps": "15"
+        }
+      ],
+      "comment": "( rodillas hacia adentro)",
       "kneeSensation": null
     }
   },
