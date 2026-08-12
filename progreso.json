@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-11T20:52:47.700Z",
+  "exportedAt": "2026-08-12T21:00:53.409Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -934,6 +934,122 @@
       ],
       "kneeSensation": null,
       "comment": "( 3 series con cada pierna, agarrando talones para no despegar pie del piso)"
+    },
+    "w3_d2_B__log0": {
+      "sets": [
+        {
+          "kg": "17,5",
+          "reps": "12"
+        },
+        {
+          "kg": "17,5",
+          "reps": "12"
+        },
+        {
+          "kg": "17,5",
+          "reps": "12"
+        },
+        {
+          "kg": "17,5",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d2_B__log1": {
+      "sets": [
+        {
+          "kg": "45",
+          "reps": "10"
+        },
+        {
+          "kg": "45",
+          "reps": "10"
+        },
+        {
+          "kg": "45",
+          "reps": "10"
+        },
+        {
+          "kg": "45",
+          "reps": "10"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d2_B__log2": {
+      "sets": [
+        {
+          "kg": "25",
+          "reps": "12"
+        },
+        {
+          "kg": "25",
+          "reps": "12"
+        },
+        {
+          "kg": "25",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d2_C__log0": {
+      "sets": [
+        {
+          "kg": "15",
+          "reps": "10"
+        },
+        {
+          "kg": "15",
+          "reps": "10"
+        },
+        {
+          "kg": "15",
+          "reps": "9"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d2_C__log2": {
+      "sets": [
+        {
+          "kg": "27",
+          "reps": "12"
+        },
+        {
+          "kg": "27",
+          "reps": "12"
+        },
+        {
+          "kg": "27",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w3_d2_C__log1": {
+      "sets": [
+        {
+          "kg": "41",
+          "reps": "12"
+        },
+        {
+          "kg": "41",
+          "reps": "12"
+        },
+        {
+          "kg": "1",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
     }
   },
   "videos": {
@@ -1009,6 +1125,9 @@
     "w1_d3__done": true,
     "w2_d0__done": true,
     "w2_d1__done": true,
-    "w2_d2__done": true
+    "w2_d2__done": true,
+    "w3_d0__done": true,
+    "w3_d1__done": true,
+    "w3_d2__done": true
   }
 }
