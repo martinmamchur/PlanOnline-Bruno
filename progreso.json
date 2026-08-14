@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-14T21:07:46.532Z",
+  "exportedAt": "2026-08-14T21:09:16.105Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1067,6 +1067,24 @@
         }
       ],
       "comment": "( fue sin peso por ahora)",
+      "kneeSensation": null
+    },
+    "w3_d4_B__log2": {
+      "sets": [
+        {
+          "kg": "46",
+          "reps": "12"
+        },
+        {
+          "kg": "46",
+          "reps": "12"
+        },
+        {
+          "kg": "46",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
       "kneeSensation": null
     }
   },
