@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-14T21:09:16.105Z",
+  "exportedAt": "2026-08-14T21:22:24.020Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1164,6 +1164,8 @@
     "w2_d2__done": true,
     "w3_d0__done": true,
     "w3_d1__done": true,
-    "w3_d2__done": true
+    "w3_d2__done": true,
+    "w2_d4__done": true,
+    "w3_d3__done": true
   }
 }
