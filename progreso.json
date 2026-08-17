@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-17T20:59:19.110Z",
+  "exportedAt": "2026-08-17T21:00:31.895Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1252,6 +1252,24 @@
       ],
       "kneeSensation": null,
       "comment": "( lo hice arriba de la plataforma)"
+    },
+    "w4_d0_C__log3": {
+      "sets": [
+        {
+          "kg": "20",
+          "reps": "15"
+        },
+        {
+          "kg": "20",
+          "reps": "15"
+        },
+        {
+          "kg": "20",
+          "reps": "15"
+        }
+      ],
+      "comment": "( disco en ",
+      "kneeSensation": null
     }
   },
   "videos": {
