@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-17T20:51:03.080Z",
+  "exportedAt": "2026-08-17T20:51:12.780Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1221,15 +1221,15 @@
       "sets": [
         {
           "kg": "22",
-          "reps": ""
+          "reps": "15"
         },
         {
           "kg": "22",
-          "reps": ""
+          "reps": "15"
         },
         {
-          "kg": "",
-          "reps": ""
+          "kg": "22",
+          "reps": "15"
         }
       ],
       "comment": "",
