@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-20T21:23:28.957Z",
+  "exportedAt": "2026-08-20T21:27:44.083Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1396,6 +1396,24 @@
       ],
       "kneeSensation": null,
       "comment": "( 25 min marcha normal de Cinta)"
+    },
+    "w4_d3_C__log0": {
+      "sets": [
+        {
+          "kg": "5",
+          "reps": ""
+        },
+        {
+          "kg": "5",
+          "reps": ""
+        },
+        {
+          "kg": "5",
+          "reps": ""
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
     }
   },
   "videos": {
