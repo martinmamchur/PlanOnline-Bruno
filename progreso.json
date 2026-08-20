@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-20T22:00:33.319Z",
+  "exportedAt": "2026-08-20T22:18:49.936Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1450,6 +1450,20 @@
       ],
       "comment": "( con disco)",
       "kneeSensation": null
+    },
+    "w4_d3_C__log3": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        }
+      ],
+      "kneeSensation": null,
+      "comment": "( hice 3 series)"
     }
   },
   "videos": {
