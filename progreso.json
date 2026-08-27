@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-27T20:24:17.216Z",
+  "exportedAt": "2026-08-27T20:28:19.047Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1492,6 +1492,24 @@
       ],
       "kneeSensation": null,
       "comment": "Sin peso 3 rep x pierna"
+    },
+    "w5_d1_C__log1": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        }
+      ],
+      "kneeSensation": null,
+      "comment": "Con disco de 5kg en mano para apoyo de equilibrio "
     }
   },
   "videos": {
