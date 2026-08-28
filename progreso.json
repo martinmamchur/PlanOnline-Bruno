@@ -1,6 +1,6 @@
 {
   "app": "plan-bruno",
-  "exportedAt": "2026-08-27T20:34:37.663Z",
+  "exportedAt": "2026-08-28T21:30:34.694Z",
   "planStart": "",
   "logData": {
     "w1_d0_B__log1__name": {
@@ -1528,6 +1528,136 @@
       ],
       "kneeSensation": null,
       "comment": "Lo hice en la plataforma parado 4 veces con cada pie"
+    },
+    "w5_d4_B__log0": {
+      "sets": [
+        {
+          "kg": "25",
+          "reps": "8"
+        },
+        {
+          "kg": "25",
+          "reps": "8"
+        },
+        {
+          "kg": "25",
+          "reps": "8"
+        },
+        {
+          "kg": "25",
+          "reps": "8"
+        }
+      ],
+      "comment": "25kg cada lado ",
+      "kneeSensation": null
+    },
+    "w5_d4_B__log1": {
+      "sets": [
+        {
+          "kg": "20",
+          "reps": "8"
+        },
+        {
+          "kg": "20",
+          "reps": "8"
+        },
+        {
+          "kg": "20",
+          "reps": "8"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w5_d4_B__log2": {
+      "sets": [
+        {
+          "kg": "49",
+          "reps": "8"
+        },
+        {
+          "kg": "49",
+          "reps": "8"
+        },
+        {
+          "kg": "49",
+          "reps": "8"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w5_d4_C__log1": {
+      "sets": [
+        {
+          "kg": "36",
+          "reps": "15"
+        },
+        {
+          "kg": "36",
+          "reps": "15"
+        },
+        {
+          "kg": "36",
+          "reps": "15"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w5_d4_C__log2": {
+      "sets": [
+        {
+          "kg": "36",
+          "reps": "12"
+        },
+        {
+          "kg": "36",
+          "reps": "12"
+        },
+        {
+          "kg": "36",
+          "reps": "12"
+        }
+      ],
+      "comment": "",
+      "kneeSensation": null
+    },
+    "w5_d4_C__log3": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        }
+      ],
+      "comment": "3x 30\"",
+      "kneeSensation": null
+    },
+    "w5_d4_C__log0": {
+      "sets": [
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        },
+        {
+          "kg": "",
+          "reps": ""
+        }
+      ],
+      "kneeSensation": null,
+      "comment": "En Smith con 10kg cada lado "
     }
   },
   "videos": {
@@ -1610,6 +1740,7 @@
     "w4_d0__done": true,
     "w4_d2__done": true,
     "w4_d3__done": true,
-    "w5_d1__done": true
+    "w5_d1__done": true,
+    "w5_d4__done": true
   }
 }
